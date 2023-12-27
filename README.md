@@ -37,3 +37,9 @@ app.listen(8000);
 <br>
 
 Now, each of the category has its own way to handle form data.
+
+<br>
+<br>
+
+## multi-part/form-data
+* In order to handle 
